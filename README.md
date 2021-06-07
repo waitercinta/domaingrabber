@@ -11,3 +11,16 @@
 ------------------
 
 Linux/Termux
+
+Run terminal or termux 
+
+command
+
+- git clone https://github.com/waitercinta/domaingrabber.git
+- cd domaingrabber
+- if want domain to ip 
+- python DOMAIN-IP.py 
+- if ip to domain 
+- python IP-DOMAIN.py
+
+Make Sure dah stanby file domain or ip dalam bentuk .txt
